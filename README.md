@@ -1,2 +1,2 @@
 # lj-site
-Leetjourne main website repository
+Leetjourney main website repository
